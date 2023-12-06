@@ -11,7 +11,7 @@ Exercise Repo: [JavaScript Loops](https://github.com/Bryantellius/JavaScript_Sel
 5. Follow the instructions on the README.md file to complete exercises
 6. Open the `app.js` file to get started
 
-## Exercise 1: Ignore Even
+## Exercise 1: Ignore Even DONE
 
 In this exercise, you will be counting from 1 - 100. For each odd number, you will print the number to the console. If the number is even, do nothing.
 
@@ -19,7 +19,7 @@ In this exercise, you will be counting from 1 - 100. For each odd number, you wi
 2. Inside the loop body, write an `if/else` selection statement that checks whether a number is odd
 3. If the number is odd, then print the number to the console, otherwise do nothing and continue to the next number
 
-## Exercise 2: FIZZBUZZ
+## Exercise 2: FIZZBUZZ DONE
 
 FIZZBUZZ is a very common coding interview problem. Below are the instructions to solving the problem:
 
@@ -31,11 +31,11 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
 
 Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would print `'BUZZ'`
 
-## Exercise 3: Repeat with While and Do/While
+## Exercise 3: Repeat with While and Do/While DONE
 
 For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solutions.
 
-## Exercise 4: Find Value
+## Exercise 4: Find Value DONE
 
 In this exercise, you will count from iterate from 1 to n. If you iterate over a given value, then break out the loop and print "Found value!". If you do not find the value in the given range, print "Did not find value".
 
@@ -50,7 +50,7 @@ let n = Math.round(Math.random() * (500 - 100) + 100); // creates a random numbe
 3. If your current iteration is equal to `value`, then print "Found value!", and `break` out of the loop
 4. If you do not ever find the value and break out of the loop, then after the loop is finished, print "Did not find value"
 
-## Exercise 5: Customized FIZZBUZZ
+## Exercise 5: Customized FIZZBUZZ DONE
 
 We already completed the FIZZBUZZ challenge. Now repeat the logic for the FIZZBUZZ challege with values provided in variables.
 
